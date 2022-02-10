@@ -1,6 +1,6 @@
 ---
 layout: default
-title: this is page 2
+title: create a logo
 nav_order: 2
 ---
 
