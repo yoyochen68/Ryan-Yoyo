@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: this is page 2
