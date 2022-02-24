@@ -52,18 +52,6 @@ Please update to the latest versions of the browsers listed down below on your d
 -   [Microsoft Edge](https://support.microsoft.com/en-us/help/4533311/microsoft-edge-troubleshooting-tips-for-installing-and-updating), version 89 or higher
 -   Opera, version 44 or higher
 
-### iPhone and iPad mobile apps
-
-Download Canva for iOS  [here](https://www.canva.com/download/ios/).
-
--   Operating system is iOS 12 or higher
--   Minimum of 150MB free memory space
-
-### Android app
-
-Download Canva for Android  [here](https://www.canva.com/download/android/).
-
--   Operating system is Android 5.0 (Lollipop) or higher
-
+In this instruction we are using Chrome.
 
 
