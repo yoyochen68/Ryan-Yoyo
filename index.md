@@ -10,9 +10,17 @@ permalink: /
 
 Welcome! This documentation will guide you through learning **Canva**. Canva is an online graphic design platform which is used to create different visual content, edit pictures, make presentations, posters and edit videos. **Canva** is extremely popular among digital creators since it is really user friendly and has many stock images, videos, elements and templates ready for users to use. Users can use **Canva** for free; however, some features and stock content requires the paid membership.
 
-##Highlight
+## Highlight
+
+### Plenty templates
+Canva has more than 50,000 templates that can be used for social media, business, marketing, education, trending and personal demand. Most elements in the templates are available to modify.
 ![template](template.png)
 
+### Drap and Drop
+The feature of drag and drop interface allows templates to be customized with just a few clicks. Simply upload your photos to Canva, drop them into the template of your choice, drap to anywhere you prefer. 
+
+### Canva Print
+Canva is partnered with leading printers to bring your designs to life with the best color quality on premium, sustainable paper.
 
 ## Getting Started
 
