@@ -15,6 +15,8 @@ Welcome! This documentation will guide you through learning **Canva**. Canva is 
 ### Plenty templates
 Canva has more than 50,000 templates that can be used for social media, business, marketing, education, trending and personal demand. Most elements in the templates are available to modify.
 
+![template](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/template.png?raw=true)
+
 
 ### Drag and Drop
 The feature of drag and drop interface allows templates to be customized with just a few clicks. Simply upload your photos to Canva, drop them into the template of your choice, drap to anywhere you prefer. 
