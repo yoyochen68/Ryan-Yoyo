@@ -48,13 +48,3 @@ SCREEN SHOT
 SCREEN SHOT
 
 
-#### Example
-{: .no_toc }
-
-```scss
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
-```
