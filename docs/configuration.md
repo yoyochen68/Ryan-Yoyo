@@ -1,7 +1,7 @@
 ---
 layout: default
 title: create a logo
-nav_order: 2
+nav_order: 6
 ---
 
 # Configuration
