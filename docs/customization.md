@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
+title: Create a Business Card
+nav_order: 2
 ---
 
 # Creating a Business Card
