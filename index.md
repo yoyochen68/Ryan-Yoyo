@@ -10,6 +10,10 @@ permalink: /
 
 Welcome! This documentation will guide you through learning **Canva**. Canva is an online graphic design platform which is used to create different visual content, edit pictures, make presentations, posters and edit videos. **Canva** is extremely popular among digital creators since it is really user friendly and has many stock images, videos, elements and templates ready for users to use. Users can use **Canva** for free; however, some features and stock content requires the paid membership.
 
+##Highlight
+![template](template.png)
+
+
 ## Getting Started
 
 You can start using Canva on your browser right away after you create an account. Also, you can download the application on your mobile phone if that's what you prefer.
