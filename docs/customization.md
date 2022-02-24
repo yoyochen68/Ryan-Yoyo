@@ -4,104 +4,49 @@ title: Customization
 nav_order: 6
 ---
 
-# Customization
-{: .no_toc }
+# Creating a Business Card
 
-## Table of contents
-{: .no_toc .text-delta }
+## Overview
 
-1. TOC
-{:toc}
+In this section we will focus on creating a personal business card with **Canva**. This instruction will help you learn the very basics of Canva
 
----
+## Steps
 
-## Color schemes
-{: .d-inline-block }
+1. Make sure you are on the Canva's home page. 
+ You can click on [this link](https://www.canva.com/) to make sure you are on the right page.
+ SCREEN SHOT
+2. Click on the "Create a design" on the top right.
+SCREEN SHOT
+Now you should see the dropdown menu with a search bar.
+3. Type in "business card".
+SCREEN SHOT
+As you can see Canva is recommending multiple business card designs. They are different in sizing and style.
+4. Choose the preferred sizing. In this instruction we will be choosing 3.5 x 2 inches ( the first one)
+SCREEN SHOT
+5. Choose the "templates" on the top left of the page.
+SCREEN SHOT
+As you can see Canva is automatically suggesting you only business card's templates. You can take a look at each one of them to see which you like better. 
+6. Type in "Corporate Business Card by dendysign" Click on the right template. 
+The process of creating a business card is the same for each template. However in this instruction we are using the template down below. 
+7. Click in the right template.
+8. Click on "Apply to both pages"
+SCREEN SHOT
+This will ensure that your business card has a print on both front and back. However, in future uses you can choose the front side if it's preferred. 
+9. Hover your mouse over the name on the business card so you can see the blue border. 
+SCREEN SHOT 
+10. Double click on the name so you can edit the text bar.
+SCREEN SHOT
+Double click on any text so you can type in anything you want instead.
+11. Type in your name.
+SCREEN SHOT
+12. You can repeat the same process for the rest of information.
+You can always change the font, colors, size or effects.
+SCREEN SHOT
+13. Choose the second page in the menu down the page.
+SCREEN SHOT
+14. Edit texts as you want.
+SCREEN SHOT
 
-New
-{: .label .label-green }
-
-Just the Docs supports two color schemes: light (default), and dark.
-
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
-
-#### Example
-{: .no_toc }
-
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
-
-## Custom schemes
-
-### Define a custom scheme
-
-You can add custom schemes.
-If you want to add a scheme named `foo` (can be any name) just add a file `_sass/color_schemes/foo.scss` (replace `foo` by your scheme name) 
-where you override theme variables to change colors, fonts, spacing, etc.
-
-Available variables are listed in the [_variables.scss](https://github.com/pmarsceill/just-the-docs/tree/master/_sass/support/_variables.scss) file.
-
-For example, to change the link color from the purple default to blue, include the following inside your scheme file:
-
-#### Example
-{: .no_toc }
-
-```scss
-$link-color: $blue-000;
-```
-
-_Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail.
-Please use scheme files.
-
-### Use a custom scheme
-
-To use the custom color scheme, only set the `color_scheme` parameter in your site's `_config.yml` file:
-```yaml
-color_scheme: foo
-```
-
-### Switchable custom scheme
-
-If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name)
-with the following content:`
-
-{% raw %}
-    ---
-    ---
-    {% include css/just-the-docs.scss.liquid color_scheme="foo" %}
-{% endraw %}
-
-This allows you to switch the scheme via the following javascript.
-
-```js
-jtd.setTheme('foo');
-```
-
-## Override and completely custom styles
-
-For styles that aren't defined as variables, you may want to modify specific CSS classes.
-Additionally, you may want to add completely custom CSS specific to your content.
-To do this, put your styles in the file `_sass/custom/custom.scss`.
-This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
-
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
 
 #### Example
 {: .no_toc }
