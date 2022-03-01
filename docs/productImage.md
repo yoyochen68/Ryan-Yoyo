@@ -7,6 +7,10 @@ nav_order: 11
 # Creating a Product Image
 
 
+[![travel vlog](https://i.ytimg.com/vi/qTfHSDNnF1k/maxresdefault.jpg)](https://youtu.be/-bz3vT4lODY)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+
+
 ## Overview
 
 Want to make a professional product image? Canva is the handiest application for you. In this section, you will learn how to create your own product image from a whiteboard like this.
