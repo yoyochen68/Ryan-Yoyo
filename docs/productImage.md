@@ -7,9 +7,6 @@ nav_order: 11
 # Creating a Product Image
 
 
-[![travel vlog](https://i.ytimg.com/vi/qTfHSDNnF1k/maxresdefault.jpg)](https://youtu.be/-bz3vT4lODY)
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
-
 
 ## Overview
 
