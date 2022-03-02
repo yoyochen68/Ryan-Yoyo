@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Business Card
+title: Create a Logo
 nav_order: 10
 ---
 
