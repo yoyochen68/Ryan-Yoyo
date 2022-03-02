@@ -16,13 +16,11 @@ In this section we will focus on creating a personal business card with **Canva*
  You can click on [this link](https://www.canva.com/) to make sure you are on the right page.
  SCREEN SHOT
 2. Click on the "Create a design" on the top right.
-SCREEN SHOT
 Now you should see the dropdown menu with a search bar.
 3. Type in "business card".
-SCREEN SHOT
 As you can see Canva is recommending multiple business card designs. They are different in sizing and style.
 4. Choose the preferred sizing. In this instruction we will be choosing 3.5 x 2 inches ( the first one)
-SCREEN SHOT
+![Choosing](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/BizCard/ChoosingBizCard.png?raw=true)
 5. Choose the "templates" on the top left of the page.
 SCREEN SHOT
 As you can see Canva is automatically suggesting you only business card's templates. You can take a look at each one of them to see which you like better. 
