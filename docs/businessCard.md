@@ -36,14 +36,16 @@ This will ensure that your business card has a print on both front and back. How
 SCREEN SHOT 
 10. Double click on the name so you can edit the text bar.
 SCREEN SHOT
-Double click on any text so you can type in anything you want instead.
 11. Type in your name.
 SCREEN SHOT
 12. You can repeat the same process for the rest of information.
 You can always change the font, colors, size or effects.
+13. Delete and replace the logo. For this instruction we are using the same logo we made in our previoud instruction.
 SCREEN SHOT
-13. Choose the second page in the menu down the page.
-SCREEN SHOT
-14. Edit texts as you want.
-SCREEN SHOT
+14. Change the background color to #141543.
+15. Click on the orange elements and change their colors to #2BB3C3 from the top toolbar.
+Repeat this process for all of them till you get this image:
+16. Click on the second page down below.
+17. Change the logo, background, texts and the elemnts as same as the first page so both pages matches.
+ScreenShot
 
