@@ -1,6 +1,8 @@
-
-
-
+---
+layout: default
+title: Create a Business Card
+nav_order: 10
+---
 
 # Creating a Logo 
 
