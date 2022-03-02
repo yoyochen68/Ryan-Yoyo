@@ -44,5 +44,5 @@ Repeat this process for all of them till you get this image:
 ![ChangingElementsBizCard](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/BizCard/ChangingElementsBizCard.png?raw=true)
 16. Click on the second page down below.
 17. Change the logo, background, texts and the elemnts as same as the first page so both pages matches.
-![secondpageBiz (2)](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/BizCard/secondpageBiz (2).png?raw=true)
+![secondpageBiz](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/BizCard/secondpageBizFinal.png?raw=true)
 
