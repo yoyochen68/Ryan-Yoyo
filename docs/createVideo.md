@@ -10,7 +10,7 @@ nav_order: 15
 ## Overview
 Have you ever though about that a YouTube video with fanncy animations can be created in 5 minutes? In this section, you will learn how to create a stylish YouTube video using templates like the this⭣⭣⭣.
 
-[![videoLink](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/videoLinkImag.png)](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit)
+[![videoLink](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/videocover.png?raw=ture)](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit)
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
