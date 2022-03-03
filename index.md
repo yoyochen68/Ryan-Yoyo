@@ -35,11 +35,11 @@ You can start using Canva on your browser right away after you create an account
 This guide is created for beginners with no experience in creating digital content. As long as you have basic computer knowledge and internet connection, you can start using Canva. By following this detailed instruction step by step, you will learn the basics of Canva.  
 
 By the end of this guide, you will be able to
- - make simple promotional pictures
- - make YouTube intros
- - make presentations
+ - make product image
+ - make YouTube outro
+ - make YouTube video
  - make business cards
- - edit videos on a basic level
+ - make Logo
 
 ## Typographical Conventions
 
