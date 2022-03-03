@@ -47,7 +47,7 @@ Choose any color you like however, we used #00C4CC, #CE2B87, #4C0BD1, #7900FF, #
 Repeat the same process and add it to the previous element with the color: #EE3EC9 and size: w:153, h:77.
 Size does not need to be perfectly accurate.
 
-![Vibration](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/Logo/Vibration.png?raw=true)
+![circle](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/Logo/circle.png?raw=true)
 
 12. Add a heading text from the left tool bar then click on it and type in the name. "MyTunes" as an example.
 13. Choose the #00C4CC for the text color from the upper tool bar.
