@@ -42,11 +42,19 @@ By the end of this guide, you will be able to
  - edit videos on a basic level
 
 ## Typographical Conventions
-1.The element is ediable if it is framed by green line when you clicking it. It will be able to change the size, color, position.
-![greenline](?raw=true)
 
-2.purple line..
-![purpleline](?raw=true)
+1. There is toolbar at the top. The top toolbar will be changed according to the selected item. It is used to edit different attributes of an item. Such as colors, font and size.
+
+2. The tool bar on the left is for importing different images, elements, texts, videos and etc. The left tool bar will always remain the same regardless.
+
+3. By hovering your mouse on the items on the page you can see a blue frame around it. That means you can click on it.
+
+4. By clicking on an item you can adjust the size, crop or move it via handles and edit the attributes via the top tool bar.
+
+5. By dragging an item on the page you might see some purple lines. Those purple lines will guide you to align your item with different items.
+
+
+
 
 ## Prerequisite
 
