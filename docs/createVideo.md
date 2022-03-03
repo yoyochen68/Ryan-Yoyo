@@ -8,7 +8,7 @@ nav_order: 15
 
   
 ## Overview
-Have you ever though about that a YouTube video with fanncy animations can be created in 5 minutes? In this section, you will learn how to create a stylish YouTube video using templates like the this.
+Have you ever though about that a YouTube video with fanncy animations can be created in 5 minutes? In this section, you will learn how to create a stylish YouTube video using templates like the this &#8595 &#8595 &#8595.
 
 [![videoLink](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/videoLink.png)](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit)
 
