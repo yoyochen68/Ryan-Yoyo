@@ -41,6 +41,13 @@ By the end of this guide, you will be able to
  - make business cards
  - edit videos on a basic level
 
+## Typographical Conventions
+1.The element is ediable if it is framed by green line when you clicking it. It will be able to change the size, color, position.
+![greenline](?raw=true)
+
+2.purple line..
+![purpleline](?raw=true)
+
 ## Prerequisite
 
 ### Internet connection
