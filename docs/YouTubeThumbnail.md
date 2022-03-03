@@ -1,5 +1,9 @@
 
-
+---
+layout: default
+title: Create a Logo
+nav_order: 15
+---
 
 
 # Creating a Logo 
