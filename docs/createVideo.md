@@ -12,6 +12,9 @@ Have you ever though about that a YouTube video with fanncy animations can be cr
 
 [![videoLink](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/videoLinkImag.png)](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 ## Step：
 
 ### 1. Replace Video
