@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create YouTube Video
+title: Create a YouTube Video
 nav_order: 15
 ---
 
