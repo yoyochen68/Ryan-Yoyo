@@ -6,7 +6,7 @@ nav_order: 15
 ---
 
 
-# Creating a Logo 
+# Creating an YouTube Outro 
 
 ## Overview
 
