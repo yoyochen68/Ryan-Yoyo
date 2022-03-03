@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create YouTube Video
+title: Glossary
 nav_order: 20
 ---
 
