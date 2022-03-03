@@ -8,7 +8,7 @@ nav_order: 15
 
   
 ## Overview
-Have you ever though about that a YouTube video with fanncy animations can be created in 5 minutes? In this section, you will learn how to create a stylish YouTube video using templates like the this⭣⭣⭣.
+Have you ever though about that a YouTube video with fanncy animations can be created in 5 minutes? In this section, you will learn how to create a stylish YouTube video using templates in [Canva](https://www.canva.com/) like the this⭣⭣⭣.
 
 [![videoLink](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/videocover.png?raw=ture)](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit)
 
@@ -17,7 +17,7 @@ Have you ever though about that a YouTube video with fanncy animations can be cr
 ## Step：
 
 ### 1. Replace Video
-Delete the current videos in the template by clicking the video and press **delete** key on the keyboard. The place to hold the video becomes a background of glassland. Drag the new videos from desktop and drop it on the video place. Hold and drag the video to adjust the size and the position.
+Get the [template](https://www.canva.com/design/DAE54Q0vivg/L_En1utrgb8BNWUOnr0LFw/edit) and delete the current videos in the template by clicking the video and press **delete** key on the keyboard. The place to hold the video becomes a background of glassland. Drag the new videos from desktop and drop it on the video place. Hold and drag the video to adjust the size and the position.
 
 
 ![originVideo](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/originVideo.png?raw=true)
