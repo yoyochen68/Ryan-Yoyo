@@ -24,6 +24,8 @@ The feature of drag and drop interface allows templates to be customized with ju
 ### Canva Print
 Canva is partnered with leading printers to bring your designs to life with the best color quality on premium, sustainable paper.
 
+![canvaPrint](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/canvaPrint.png)
+
 ## Getting Started
 
 You can start using Canva on your browser right away after you create an account. Also, you can download the application on your mobile phone if that's what you prefer.
