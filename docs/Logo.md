@@ -23,7 +23,7 @@ As you can see Canva is recommending multiple logo designs. They are different i
 
 4. Choose the preferred sizing. In this instruction we will be choosing 500 x 500 px ( the first one)
 
-![LogoSearch](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/Logo/LogoSearch.png?raw=true)
+![LogoSearch](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/Logo/logoSearch.png?raw=true)
 
 5. Change the background to #121640
 
