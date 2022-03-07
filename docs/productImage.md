@@ -69,7 +69,7 @@ You can download the final image on the top right of the page.
 
 ![downloadImage](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/download.png?raw=true)
 
-conclusion:
+## conclusion:
 To create a Product Image on Canva, You just need 7 steps:Create whiteboard,Select colour, Create Shape, Insert Graphic, Upload Image and Download the file.
 The way to create the product image of the chair can be applied to any other image creating.
 
