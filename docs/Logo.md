@@ -66,3 +66,4 @@ Size does not need to be perfectly accurate.
 ![final](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/Logo/final.png?raw=true)
 
 
+After this instruction you should be able to create a simple logo easily. The main purpose was to get comfortable with searching for related elements and edit them according to your prefrences. 
