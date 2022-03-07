@@ -53,6 +53,10 @@ By the end of this guide, you will be able to
 
 5. By dragging an item on the page you might see some purple lines. Those purple lines will guide you to align your item with different items.
 
+## NOTE
+
+Keep in mind that your data is always safe on Canva. Everything is automatically saved on the cloud so don't worry about any data destruction. If you happen to do something that you did not inted to do, simply undo it either with the tool bar or with your keyboard. Remeber that undo-ing would not be possible after closing the browser and opening it again.
+
 
 
 
