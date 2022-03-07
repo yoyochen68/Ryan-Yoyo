@@ -61,5 +61,6 @@ Do this step for both rectangles.
 ![final](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/outro/final.png?raw=true)
 
 
+After this instruction you should be able to create a Youtube Outro card easily. The main purpose was to get comfortable with using the templates and editing the elements. Be creative and try to make whatever you like :)
 
 
