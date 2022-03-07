@@ -46,3 +46,6 @@ Repeat this process for all of them till you get this image:
 17. Change the logo, background, texts and the elemnts as same as the first page so both pages matches.
 ![secondpageBiz](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/BizCard/secondpageBizFinal.png?raw=true)
 
+
+After this instruction you should be able to create a Business Card easily. Now you know how to use the templates, editing/adjusting different elements and how to use your previous designs in a new project. 
+
