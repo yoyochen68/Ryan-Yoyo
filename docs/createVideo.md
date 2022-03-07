@@ -64,7 +64,7 @@ Upload an audio or select one from the **Audio** on the right of the website. Si
 You can download the final video on the top right of the page. The suggested format is MP4.
 ![downloadVideo](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/downloadVideo.png?raw=true)
 
-With the video templates, You can create many different style of YouTube Videos.
+
 
 ## conclusion:
 To create a YouTube Video with templates, You just need 8 stpes:Replace Video, Update Text, Get Element Info, Change Animation, Add Pages, Add Transiton, Add Audio and download the file.
