@@ -44,7 +44,7 @@ Adding animation can enhance the video. There are three kind of animations on Ca
 ![changeAnimation](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/changeAnimation.png?raw=true)
 ![multipleAnimation](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/multipleAnimation.png?raw=true)
 
-### 5.Add Page
+### 5.Add Pages
 Add more pages by clicking the "+" in the grey rectangle after the current video at the buttom of the board.The default length of the new page is 5.0s. Hold and drag the right side of the page to decrese or increse the length.
 ![addVideoPage](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/addVideoPage.png?raw=true)
 ![videoLength](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/audioLength.png?raw=true)
@@ -60,7 +60,12 @@ Upload an audio or select one from the **Audio** on the right of the website. Si
 ![addAudio](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/addAudio.png?raw=true)
 ![ajustAudio](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/adjustAudio.png?raw=true)
 
-Download the final video on the top right of the page. The suggested format is MP4.
+### 8. Download
+You can download the final video on the top right of the page. The suggested format is MP4.
 ![downloadVideo](https://github.com/yoyochen68/Ryan-Yoyo/blob/gh-pages/assets/images/videoImage/downloadVideo.png?raw=true)
 
+With the video templates, You can create many different style of YouTube Videos.
+
+## conclusion:
+To create a YouTube Video with templates, You just need 8 stpes:Replace Video, Update Text, Get Element Info, Change Animation, Add Pages, Add Transiton, Add Audio and download the file.
 With the video templates, You can create many different style of YouTube Videos.
